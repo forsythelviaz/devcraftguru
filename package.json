@@ -1,0 +1,33 @@
+{
+  "name": "devcraftguru",
+  "version": "1.0.2",
+  "description": "devcraftguru",
+  "type": "module",
+  "main": "devcraftguru.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/forsythelviaz/devcraftguru"
+  },
+  "website": "https://github.com/forsythelviaz/devcraftguru.git",
+  "keywords": [
+    "devcraftguru"
+  ],
+  "author": "forsythelviaz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/forsythelviaz/devcraftguru/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "homepage": "https://github.com/forsythelviaz/devcraftguru#readme",
+  "dependencies": {
+    "programscriptwhisper": "1.0.2",
+    "codedevcraft": "1.0.2",
+    "devscriptwhiz": "1.0.2"
+  }
+}
